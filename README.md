@@ -13,3 +13,4 @@ Git/Github
 
 Python
 * Hands on Python (EPFL course 2013) https://github.com/pcp13/orga/blob/master/schedule.rst and https://github.com/pcp13
+* Google Developers intro course https://developers.google.com/edu/python/
